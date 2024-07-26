@@ -25,9 +25,12 @@
   <li>Programming</li>
 </ul>
 <p>
+  <a href="https://git.io/streak-stats">
+    <img height="175em" src="https://streak-stats.demolab.com/?user=laivii">
+  </a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=laivii">
     <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laivii&layout=compact"/>
-    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=laivii&show_icons=true"/>
+    <!--<img height="175em" src="https://github-readme-stats.vercel.app/api?username=laivii&show_icons=true"/>-->
   </a>
 </p>   
 
